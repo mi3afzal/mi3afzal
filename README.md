@@ -23,6 +23,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The “DevCoin” ICO White Paper V0.01](https://medium.com/@mi3afzal/the-devcoin-ico-white-paper-v0-01-cb43050deb0b?source=rss-5d4c78f72f35------2)
+- [Validated Learning Vs Waste: And how do you know beforehand?](https://medium.com/@mi3afzal/validated-learning-vs-waste-and-how-do-you-know-beforehand-1589ed6eb90b?source=rss-5d4c78f72f35------2)
+- [Are entrepreneurs born or made?](https://medium.com/@mi3afzal/are-entrepreneurs-born-or-made-5e873db28491?source=rss-5d4c78f72f35------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
